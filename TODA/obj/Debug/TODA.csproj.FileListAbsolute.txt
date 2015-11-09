@@ -1,0 +1,11 @@
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\bin\Debug\TODA.exe.config
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\bin\Debug\TODA.exe
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\bin\Debug\TODA.pdb
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\bin\Debug\MongoDB.Bson.dll
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\bin\Debug\MongoDB.Driver.dll
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\bin\Debug\MongoDB.Bson.xml
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\bin\Debug\MongoDB.Driver.xml
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\obj\Debug\TODA.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\obj\Debug\TODA.exe
+c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\obj\Debug\TODA.pdb
