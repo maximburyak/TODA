@@ -9,3 +9,6 @@ c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\bin\Debug\MongoDB.D
 c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\obj\Debug\TODA.csprojResolveAssemblyReference.cache
 c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\obj\Debug\TODA.exe
 c:\users\max\documents\visual studio 2015\Projects\TODA\TODA\obj\Debug\TODA.pdb
+D:\Work\TODA\TODA\bin\Debug\TODA.exe.config
+D:\Work\TODA\TODA\obj\Debug\TODA.exe
+D:\Work\TODA\TODA\obj\Debug\TODA.pdb

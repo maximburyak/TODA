@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TODA
+namespace TODA.Mongo
 {
-    class Program
+    class FullTextSearch
     {
-        static void Main(string[] args)
-        {
-            new Mongo().RunInsert();
-        }
     }
 }

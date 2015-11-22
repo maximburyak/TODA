@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace TODA
 {
-    class Program
+    class RavenDB
     {
-        static void Main(string[] args)
-        {
-            new Mongo().RunInsert();
-        }
     }
 }
