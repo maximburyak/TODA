@@ -9,6 +9,7 @@ using System.Linq.Expressions;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using TODA.Model;
 
 namespace TODA
 {
@@ -64,11 +65,7 @@ namespace TODA
 
                     });
 
-                    clusterBuilder.ConfigureConnectionPool(connPool=>
-                    {
-                        connPool.MaintenanceInterval
-                        return connPool;
-                    });
+                  
                 }
             });
 
@@ -87,8 +84,8 @@ namespace TODA
             Expression<Func<Student, String>> userNameExpression = x=>x.Name;            
                         
             var field = new ExpressionFieldDefinition<Student>(userNameExpression);
-            indexKeysDefinition.Ascending()
-            collection.Indexes.CreateOneAsync(new IndexKeysDefinition<Student>())
+            //indexKeysDefinition.Ascending();   
+            //collection.Indexes.CreateOneAsync(new IndexKeysDefinition<Student>())
         }
     }
 }

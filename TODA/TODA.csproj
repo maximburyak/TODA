@@ -55,6 +55,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\Class.cs" />
+    <Compile Include="Model\Student.cs" />
+    <Compile Include="Mongo\Crud.cs" />
+    <Compile Include="Mongo\FullTextSearch.cs" />
+    <Compile Include="Mongo\Patch.cs" />
+    <Compile Include="Mongo\Querying.cs" />
+    <Compile Include="Mongo\Replication.cs" />
+    <Compile Include="Mongo\Sharding.cs" />
+    <Compile Include="Mongo\Streaming.cs" />
+    <Compile Include="Mongo\Subscriptions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Mongo.cs" />
